@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mercymugambi
-- 👀 I’m interested in fullStack Web developer
+- 👀 I’m interested in fullStack Software developer
 - 🌱 I’m currently learning new things every day. Programming always making my dull day a bright one
 - 💞️ I’m looking to collaborate on any project you could be working on.
 - 📫 you can reach me through my email address mercymugambi2016@gmail.com.
