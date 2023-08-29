@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&width=435&lines=Hello+%2C+I'm+Mercy+Mugambi+%F0%9F%91%8B;A+Full-Stack+Software+Engineer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&width=435&lines=Hello+there%2C+I'm+Mercy+Mugambi+%F0%9F%91%8B;A+Full-Stack+Software+Engineer" alt="Typing SVG" /></a></h1>
 <img align="right" width="500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
  <h3 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
