@@ -16,15 +16,15 @@
 >
 <hr>
  <h3 align="center" style="display: flex; justify-content: center;">Certificates</h3>
- <div style="display: flex; justify-content: center; margin: auto;">
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82740679" width="250"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79785489" width="250"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/77337469" width="250"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/74440114" width="250"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72351744" width="250"></img>
- <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70101028" width="250"></img>
- 
+ <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; margin: auto;">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82740679" width="250" alt="Certificate 1">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79785489" width="250" alt="Certificate 2">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/77337469" width="250" alt="Certificate 3">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/74440114" width="250" alt="Certificate 4">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72351744" width="250" alt="Certificate 5">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70101028" width="250" alt="Certificate 6">
 </div>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
