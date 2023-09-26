@@ -16,7 +16,7 @@
 >
 <hr>
  <h3 align="center" style="display: flex; justify-content: center;">Certificates</h3>
- <div style="display: flex; justify-content: center;">
+ <div style="display: flex; justify-content: center; margin: auto;">
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82740679" width="300"></img>
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79785489" width="300"></img>
  <img src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/77337469" width="300"></img>
